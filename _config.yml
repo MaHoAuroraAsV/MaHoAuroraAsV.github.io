@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: AsV
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: MaHoAuroraAsV
+location: Beijing, China
+email: asv3551719518@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -84,7 +84,7 @@ navs:
   -
     href: /open-source/
     label: 开源
-    mobile-hidden: true
+    mobile-hidden: false
 
   -
     href: /fragments/
