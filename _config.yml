@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://MaHoAuroraAsV.github.io
+url: MaHoAuroraAsV.github.io
 date_format: "ordinal"
 title: AsV
 subtitle: "Welcome to my blog :D"
